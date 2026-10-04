@@ -491,7 +491,7 @@ java-application-reverse-proxy-aws/
 
 # 👨‍💻 Author
 
-**Ankur khurpadi **
+**Ankur khurpadi**
 
 Cloud / AWS Enthusiast
 
