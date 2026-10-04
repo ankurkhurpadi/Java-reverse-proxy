@@ -491,7 +491,7 @@ java-application-reverse-proxy-aws/
 
 # 👨‍💻 Author
 
-**Ishant More**
+**Ankur khurpadi **
 
 Cloud / AWS Enthusiast
 
